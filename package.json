@@ -1,0 +1,12 @@
+{
+  "name": "typecheck-closure-compiler",
+  "version": "0.0.0",
+  "author": "mkwtys",
+  "devDependencies": {
+    "google-closure-compiler": "^20151015.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "typecheck": "./bin/typecheck.sh"
+  }
+}
